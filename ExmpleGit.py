@@ -1,5 +1,7 @@
 #1
 print(" dog")
+print(" lion ")
+
 
 #2
 print(" Hello Enter your adress: ")
