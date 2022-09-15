@@ -5,6 +5,7 @@ print(" Hello Enter your  name: ")
 print(" Hello Enter your adress: ")
 print("name")
 
+print("Alina from bs")
 
 """
 name = "Name" 
